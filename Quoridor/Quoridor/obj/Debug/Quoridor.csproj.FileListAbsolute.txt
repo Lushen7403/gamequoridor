@@ -1,0 +1,13 @@
+D:\C#\Quoridor\Quoridor\bin\Debug\Quoridor.exe.config
+D:\C#\Quoridor\Quoridor\bin\Debug\Quoridor.exe
+D:\C#\Quoridor\Quoridor\bin\Debug\Quoridor.pdb
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.csproj.AssemblyReference.cache
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.Properties.Resources.resources
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.csproj.GenerateResource.cache
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.csproj.CoreCompileInputs.cache
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.exe
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.pdb
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.Form1.resources
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.GamePlay.resources
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.GamePlay2.resources
+D:\C#\Quoridor\Quoridor\obj\Debug\Quoridor.Tutorial.resources
